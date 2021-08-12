@@ -1,0 +1,4 @@
+Bftpd_remote_dos_vuln
+Bftpd_double_free_vuln
+Bftpd_parsecmd_overflow_vuln
+Bftpd_memory_leak_vuln
